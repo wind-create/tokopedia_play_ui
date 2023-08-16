@@ -1,0 +1,1 @@
+export const API_URL = "https://mid-term-gigih-production.up.railway.app/api/";

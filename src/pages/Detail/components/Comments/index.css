@@ -1,0 +1,12 @@
+.custom-comments-wrapper {
+    height: calc(100vh - 60px);
+}
+
+.custom-comments-container::-webkit-scrollbar {
+    width: 0;
+}
+  
+.custom-comments-container {
+  height: 398px;
+  overflow: scroll;
+}
